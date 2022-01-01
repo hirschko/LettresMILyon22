@@ -1,18 +1,18 @@
 # LettresMILyon22
 	
-MAv1, MAv2
+MAva1, MAva2
   Advanced Mathematics 1st year and 2nd year 
   (Université Claude Bernard Lyon 1 and ENS de Lyon) 
 
-MG1
+MGen1
 General Mathematics 1st year 
 (Université Claude Bernard Lyon 1 and Université Jean Monnet Saint-Étienne) 
 
-MAp1
+MApp1
   Applied mathematics and statistics Master program 1st year 
   (Université Claude Bernard Lyon 1)
 
-MAc2
+MAction2
   Maths in Action: from concept to l’innovation 2nd year
   (Université Claude Bernard Lyon 1/École Centrale de Lyon/ENS de Lyon)
 
